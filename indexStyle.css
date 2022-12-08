@@ -1,0 +1,30 @@
+li{
+	display : inline;
+	float:left;
+	margin: 10px;
+	
+}
+a {
+  display: block;
+  padding: 8px;
+  text-decoration:none;
+  color:black;
+}
+
+a:hover{
+	background-color:black;
+	color:white;
+}
+
+.regLog{
+	margin-left:50px;
+	float:right;
+	margin-right:60px;
+}
+.regLog a {
+  display: block;
+  padding: 8px;
+  background-color: #6699ff;
+  text-decoration:none;
+  color:white;
+}
